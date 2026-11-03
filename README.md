@@ -56,7 +56,7 @@ A proposta simula uma situação que poderia ser encontrada em um ambiente real 
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/miteixeira23/controle-niveis-agua.git
+git clone https://github.com/miteixeira23/controle_agua.git
 ```
 
 ### 3. Acesse a pasta do projeto

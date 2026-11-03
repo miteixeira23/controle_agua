@@ -62,7 +62,7 @@ git clone https://github.com/miteixeira23/controle_agua.git
 ### 3. Acesse a pasta do projeto
 
 ```bash
-cd controle-niveis-agua
+cd controle_agua
 ```
 
 ### 4. Instale a biblioteca Colorama
@@ -80,7 +80,7 @@ python controle_agua.py
 ## 📂 Estrutura do projeto
 
 ```text
-controle-niveis-agua/
+controle_agua/
 │
 ├── controle_agua.py
 ├── requirements.txt
